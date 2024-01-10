@@ -10,7 +10,9 @@ ON employees.emp_no = salaries.emp_no
 ORDER BY emp_no
 
 --LIST THE FIRST NAME, LAST NAME, AND HIRE DATE FOR EMPLOYEES WHO WERE HIRED IN 1986
-SELECT*
+SELECT employees.first_name,
+	employees.last_name,
+	employees.hire_date
 FROM employees
 WHERE DATE_PART('year', hire_date) =1986
 ORDER BY emp_no;
