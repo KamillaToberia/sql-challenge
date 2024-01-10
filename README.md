@@ -25,28 +25,47 @@
 
 ## DATA ANALYSIS
 
- 1- List the employee number, last name, sex, and salary of each employee,
+  1- List the employee number, last name, sex, and salary of each employee,
 
- [Uploading l"emp_no","last_name","first_name","sex","salary"
-10001,"Facello","Georgi","M",60117
-10002,"Simmel","Bezalel","F",65828
-10003,"Bamford","Parto","M",40006
-10004,"Koblick","Chirstian","M",40054
-10005,"Maliniak","Kyoichi","M",78228
-10006,"Preusig","Anneke","F",40000
-10007,"Zielinski","Tzvetan","F",56724
-10008,"Kalloufi","Saniya","M",46671
-10009,"Peac","Sumant","F",60929
-10010,"Piveteau","Duangkaew","F",72488
-10011,"Sluis","Mary","F",42365
-10012,"Bridgland","Patricio","M",40000
-10013,"Terkki","Eberhardt","M",40000
-10014,"Genin","Berni","M",46168
-10015,"Nooteboom","Guoxiang","M",40000
-10016,"Cappelletti","Kazuhito","M",70889
-10017,"Bouloucos","Cristinel","F",71380
-10018,"Peha","Kazuhide","F",55881
-10019,"Haddadi","Lillian","M",44276
-10020,"Warwick","Mayuko","M",40000
-ist_of_employees(20).csv…]()
+![Screenshot 2024-01-09 191759](https://github.com/KamillaToberia/sql-challenge/assets/145527812/3e6dfaaa-097f-4d88-aa73-ba40883f80f7)
 
+  2- List the first name, last name, and hire date for the employees who were hired in 1986.
+
+  ![Screenshot 2024-01-09 192332](https://github.com/KamillaToberia/sql-challenge/assets/145527812/31aba437-a01c-40bf-9389-bede68f58d13)
+
+  3- List the manager of each department along with their department number, department name, employee number, last name, and first name,
+
+  ![Screenshot 2024-01-09 193000](https://github.com/KamillaToberia/sql-challenge/assets/145527812/2e62729a-a268-46fb-99eb-a8218b56e8da)
+
+  4- List the department number for each employee along with that employee's employee number, last name, first name, and department name,
+
+  ![Screenshot 2024-01-09 193225](https://github.com/KamillaToberia/sql-challenge/assets/145527812/d8a45260-7a82-4e65-a0a3-04f20b95b17c)
+
+  5- List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B,
+
+  ![Screenshot 2024-01-09 193452](https://github.com/KamillaToberia/sql-challenge/assets/145527812/aabfec5c-4af9-40bf-b364-4550d5d043b3)
+
+  6- List each employee in the Sales, including their employee number, last name, and first name,
+
+  ![Screenshot 2024-01-09 193703](https://github.com/KamillaToberia/sql-challenge/assets/145527812/f50e18b7-d589-4653-9009-1d2541a7ff7d)
+
+  7- List each employee in the Sales and Development departments, including their employee number, last name, and first name,
+
+  ![Screenshot 2024-01-09 193927](https://github.com/KamillaToberia/sql-challenge/assets/145527812/4f0809a2-dcd9-46e0-9f8b-452113032e6c)
+
+8- List the frequency counts, in descending order, of all the employee last names (How many employees share each last name)
+
+  ![Screenshot 2024-01-09 194141](https://github.com/KamillaToberia/sql-challenge/assets/145527812/98739fce-e416-4646-b399-b8f3cb4adda2)
+
+
+
+
+
+
+
+
+
+
+
+
+  
