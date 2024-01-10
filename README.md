@@ -1,4 +1,4 @@
-[list_of_employees(20).csv](https://github.com/KamillaToberia/sql-challenge/files/13881456/list_of_employees.20.csv)[list_of_employees(20).csv](https://github.com/KamillaToberia/sql-challenge/files/13881455/list_of_employees.20.csv)# sql-challenge
+# SQL CHALLENGE
 
   For this project, I'll deign the tables to hold the data from the CSV files, import the CSV files into SQL database, and then answer questions about the data.
   This project will have three parts:
